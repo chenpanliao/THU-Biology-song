@@ -5,10 +5,12 @@
 \header {
   title = "薪傳"
   subtitle = "東海生物（科）系歌"
-  composer = "作詞、作曲：陳品晟、余長澤﹙生物系 33 屆﹚"
+  composer = "作詞、作曲：陳品晟、余長澤（生物系 33 屆）"
+  arranger = "和弦：廖鎮磐（生物系 47 屆）"
   %piece = "本譜為方便教學而以 C 大調記譜，但男女齊唱時可適度降調。"
   tagline = ""
 }
+
 
 <<
  \chords
@@ -43,8 +45,8 @@
 
 \markup{
     本譜為方便教學而以 C 大調記譜，但男女齊唱時可適度降調。}
-\markup{和弦編排以民歌時代風格編排，但伴奏者可自行變化。}
-\markup{Source code and PDF are avilable here: https://github.com/chenpanliao/THU-Biology-song}
+\markup{和弦以民歌時代風格簡單地編排，但伴奏者可自行變化。}
+\markup{Source code and PDF are avilable at https://github.com/chenpanliao/THU-Biology-song}
 \markup {
     Engraved by Chen-Pan Liao at
     \simple #(strftime "%Y-%m-%d" (localtime (current-time)))
