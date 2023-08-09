@@ -17,7 +17,7 @@
  {
    \partial 4 r4 c1 a1:m d1:m g1:7
    c1 a1:m d1:m g1:7
-   c1 a1:m d1:m g1:7
+   c1 a1:m f1 g1:7
    c1 a1:m f2 g2:7 c
  }
 
@@ -44,7 +44,7 @@
 >>
 
 \markup{
-    本譜為方便教學而以 C 大調記譜，但男女齊唱時可適度降調。}
+    本譜為方便教學而以 C 大調記譜，但男女齊唱時可適度升調並男聲低八度。}
 \markup{和弦以民歌時代風格簡單地編排，但伴奏者可自行變化。}
 \markup{Source code and PDF are avilable at https://github.com/chenpanliao/THU-Biology-song}
 \markup {
